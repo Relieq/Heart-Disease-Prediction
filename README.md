@@ -52,4 +52,4 @@ hiểu rõ mô hình máy học tích hợp ensemple theo bagging, boosting và 
 huấn luyện theo phương pháp stacking và độ chính xác của các giải thuật máy học trên tập dữ liệu
 Cleveland.
 
-<img src="images/Accuracy_of_algorithms_on_Cleveland_dataset.jpeg" alt="drawing" width="900"/>
+<img src="images/Accuracy_of_algorithms_on_Cleveland_dataset2.jpeg" alt="drawing" width="900"/>
